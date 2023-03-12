@@ -21,3 +21,5 @@ Copy code
 ```python3 main.py```
 
 The bot will continuously check the status of the H1Emu server and update its presence on Discord with the number of players online. If you want to change the server being monitored, you can edit the script and replace the URL with the URL of the server you want to monitor.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
